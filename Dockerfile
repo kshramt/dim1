@@ -1,4 +1,4 @@
-from python:3.7.4-buster
+from python:3.8.2-buster
 
 workdir /root
 
